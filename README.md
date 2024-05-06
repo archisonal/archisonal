@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @archisonal
 - 👀 I’m interested in knowing about new technologies
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me E-mail: sonalarcchi21@gmail.com
+- 📫 How to reach me E-mail: sonalarchi21@gmail.com
 - 😄 Pronouns: She/Her
 
 <!---
